@@ -1,4 +1,4 @@
-# FundMe - Ethereum Crowdfunding Smart Contract
+# FundMe - Ethereum Sepolia Crowdfunding Smart Contract
 
 A simple Ethereum-based crowdfunding smart contract that allows users to send ETH and automatically converts the value to USD using Chainlink Price Feeds.
 
